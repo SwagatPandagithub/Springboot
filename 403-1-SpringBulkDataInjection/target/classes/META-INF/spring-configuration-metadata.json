@@ -1,0 +1,32 @@
+{
+  "groups": [
+    {
+      "name": "org.info",
+      "type": "in.ineuron.component.Company",
+      "sourceType": "in.ineuron.component.Company"
+    }
+  ],
+  "properties": [
+    {
+      "name": "org.info.location",
+      "type": "java.lang.String",
+      "sourceType": "in.ineuron.component.Company"
+    },
+    {
+      "name": "org.info.name",
+      "type": "java.lang.String",
+      "sourceType": "in.ineuron.component.Company"
+    },
+    {
+      "name": "org.info.pincode",
+      "type": "java.lang.String",
+      "sourceType": "in.ineuron.component.Company"
+    },
+    {
+      "name": "org.info.size",
+      "type": "java.lang.Integer",
+      "sourceType": "in.ineuron.component.Company"
+    }
+  ],
+  "hints": []
+}

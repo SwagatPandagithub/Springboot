@@ -1,0 +1,32 @@
+{"properties": [
+  {
+    "name": "item.info.price",
+    "type": "java.lang.String",
+    "description": "A description for 'item.info.price'"
+  },
+  {
+    "name": "item.info.vada",
+    "type": "java.lang.String",
+    "description": "A description for 'item.info.vada'"
+  },
+  {
+    "name": "item.info.samosa",
+    "type": "java.lang.String",
+    "description": "A description for 'item.info.samosa'"
+  },
+  {
+    "name": "item.idli.price",
+    "type": "java.lang.String",
+    "description": "A description for 'item.idli.price'"
+  },
+  {
+    "name": "item.samosa.price",
+    "type": "java.lang.String",
+    "description": "A description for 'item.samosa.price'"
+  },
+  {
+    "name": "item.vada.price",
+    "type": "java.lang.String",
+    "description": "A description for 'item.vada.price'"
+  }
+]}

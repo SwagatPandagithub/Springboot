@@ -1,0 +1,27 @@
+emp:
+  info:
+    company:
+      address: Pune
+      name: CapG
+      size: 12000
+    id: CapG123
+    id-details:
+      aadharNo: Aadhar7472
+      driving: driv123
+      panNo: PAN123
+    name: swagat
+    phone-numbers:
+    - 999888666
+    - 999888667
+    - 999888668
+    - 999888669
+    skills:
+    - java
+    - springboot
+    - python
+    - DSA
+    team-members:
+    - sachin
+    - sachin
+    - sachin
+    - sachin

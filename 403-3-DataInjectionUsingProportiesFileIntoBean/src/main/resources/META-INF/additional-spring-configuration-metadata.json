@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "emp.info.company.address",
+    "type": "java.lang.String",
+    "description": "A description for 'emp.info.company.address'"
+  },
+  {
+    "name": "emp.info.company.name",
+    "type": "java.lang.String",
+    "description": "A description for 'emp.info.company.name'"
+  },
+  {
+    "name": "emp.info.company.size",
+    "type": "java.lang.String",
+    "description": "A description for 'emp.info.company.size'"
+  }
+]}
